@@ -1,0 +1,13 @@
+{
+    "build": {
+        "src": "src",
+        "output": "wwwroot",
+        "nav": "auto",
+        "designTokens": {
+            "primaryColor": "sky-600"
+        }
+    },
+    "serve": {
+        "src": "wwwroot"
+    }
+}

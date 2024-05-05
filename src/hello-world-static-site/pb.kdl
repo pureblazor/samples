@@ -1,8 +1,0 @@
-build {
-    src "wwwroot"
-    output "build"
-}
-
-serve {
-    content "build"
-}
