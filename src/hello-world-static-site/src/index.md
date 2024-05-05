@@ -19,6 +19,8 @@ Feel free to explore and enjoy!
 
 [blazor:header3](ChildContent=The icons below, too!)
 
+[blazor:pureicon](Icon=IconCheck)
+
 [blazor:pureicon](Icon=IconDashboard)
 
 [blazor:pureicon](Icon=IconNewspaper)
